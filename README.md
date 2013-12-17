@@ -1,4 +1,4 @@
 mutualfunds
 ===========
 
-Mutual Funds Research
+Mutual fund flow project for Stat 434.
